@@ -1,0 +1,58 @@
+<PerfectKnowledge>
+	<li>
+		<Name>Seek</Name>
+		<Level>?</Level>
+		<desc>a quick to cast ability shot at target. target suffer a brief temporary brain damage</desc>
+	</li>
+	<li>
+		<Name>Learn</Name>
+		<Level>?</Level>
+		<desc>target ally or self. increase learning speed for a short while</desc>
+	</li>
+	<li>
+		<Name>Hack</Name>
+		<Level>?</Level>
+		<desc>target one mech. take control of that mech for a day after that it will self-shutdown</desc>
+	</li>
+	<li>
+		<Name>Hacking Beacon</Name>
+		<Level>?</Level>
+		<desc>place down beacon that automatically apply "System Link" to nearby enemies. used with other ability</desc>
+	</li>
+	<li>
+		<Name>Laser Turret</Name>
+		<Level>?</Level>
+		<desc>place down fast firing, low damage, chain-laser turret</desc>
+	</li>
+	<li>
+		<Name>Knowledge Beacon</Name>
+		<Level>?</Level>
+		<desc>place down beacon that boost anyone nearby ability to learn and research</desc>
+	</li>
+	<li>
+		<Name>Learn</Name>
+		<Level>?</Level>
+		<desc></desc>
+	</li>
+	<li>
+		<Name>Learn</Name>
+		<Level>?</Level>
+		<desc></desc>
+	</li>
+	<li>
+		<Name>Learn</Name>
+		<Level>?</Level>
+		<desc></desc>
+	</li>
+	<li>
+		<Name>Learn</Name>
+		<Level>?</Level>
+		<desc></desc>
+	</li>
+	<li>
+		<Name>Learn</Name>
+		<Level>?</Level>
+		<desc></desc>
+	</li>
+	
+</PerfectKnowledge>
